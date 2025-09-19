@@ -1,0 +1,65 @@
+---
+---
+
+@import "minima";
+
+// Dark theme enhancements
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+.site-header {
+  background-color: #0d0d0d;
+  border-top: 3px solid #444;
+  border-bottom: 1px solid #333;
+}
+
+.site-nav .page-link {
+  color: #e0e0e0;
+  margin-right: 20px;
+  
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+// Hide the site title from header
+.site-title {
+  display: none;
+}
+
+// Style the main content area
+.page-content {
+  padding: 30px 0;
+  min-height: 500px;
+}
+
+// Better link colors for dark theme
+a {
+  color: #6db3f2;
+  
+  &:visited {
+    color: #5a9bd4;
+  }
+  
+  &:hover {
+    color: #8dc5f7;
+  }
+}
+
+// Card-like sections
+.home {
+  h1, h2 {
+    color: #fff;
+    border-bottom: 1px solid #444;
+    padding-bottom: 10px;
+  }
+}
+
+// Footer styling
+.site-footer {
+  background-color: #0d0d0d;
+  border-top: 1px solid #333;
+}
