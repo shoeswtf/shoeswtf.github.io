@@ -4,3 +4,8 @@ description: >-
   Coming soon - our full collection of artisanal footwear.
 baseurl: "" # Leave empty for now
 url: "" # Leave empty for now
+
+# Change theme to minima dark skin
+theme: minima
+minima:
+  skin: dark
