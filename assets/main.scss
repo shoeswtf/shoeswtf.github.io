@@ -63,3 +63,8 @@ a {
   background-color: #0d0d0d;
   border-top: 1px solid #333;
 }
+
+// Hide automatic page titles
+.post-title, .page-heading {
+  display: none;
+}
