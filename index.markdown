@@ -8,7 +8,6 @@ We're crafting something special for you. Our handmade shoes combine traditional
 
 ## What We Offer
 - Custom-made leather shoes
-- Repair and restoration services  
 - Bespoke designs
 - Traditional craftsmanship
 
