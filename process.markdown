@@ -4,9 +4,11 @@ title: Process
 permalink: /process/
 ---
 
-# Our Process
+## Our process
+Welcome to your personalized shoe-crafting journey, where we ensure that comfort meets style with every step you take. Below is an overview of the process that leads us from initial contact through creating and delivering your custom-made shoes. 
 
-## Custom Shoemaking
-Bespoke shoes crafted to your exact measurements and style preferences. This includes an in-person initial measurement, at least one test pair fitted and adjusted, and a final shoe.
+### Measuring Your Feet: The Foundation for Perfect Fit
+
+The art of making a comfortable, stylish shoe begins with measuring your feet accurately to ensure an impeccable fit that remains true over time and through all your activities. Accurate measurements are the bedrock on which our custom shoes rest. [Gentleman's Gazette has an excellent blog post](https://gentl.mn/measuring-bespoke-shoes) explaining these measurements, featuring the amazing Amara Hark Weber. Note that we do not currently use a pedograph.
 
 More details coming soon...
